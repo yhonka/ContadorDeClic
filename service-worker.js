@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/ContadorDeClic/precache-manifest.657ad15050388185e243090e2276f930.js"
+  "/ContadorDeClic/precache-manifest.f1885c4c686ba72958313e8e6b36fa12.js"
 );
 
 workbox.clientsClaim();

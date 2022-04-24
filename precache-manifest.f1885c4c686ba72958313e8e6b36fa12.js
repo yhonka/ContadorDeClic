@@ -20,7 +20,7 @@ self.__precacheManifest = [
     "url": "/ContadorDeClic/static/media/freecodecamp-logo.c00d9484.png"
   },
   {
-    "revision": "4749b040dea8fae1c0ce2a23e1ef4013",
+    "revision": "f34f5e2ec658748c2678a0188cad6657",
     "url": "/ContadorDeClic/index.html"
   }
 ];
